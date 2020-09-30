@@ -5,3 +5,4 @@ Dependencies:
 
 TODO:
 	don't use xdotool
+	allow for generic evdev devices instead of using the legacy api
