@@ -1,0 +1,7 @@
+ConChord is a linux daemon that'll take any linux controller (using the classic joystick API e.g. /dev/input/jsX) and allow it to be used as a chording keyboard, currently it uses xdo to emulate X keystrokes
+
+Dependencies:
+	xdotool (for libxdo)
+
+TODO:
+	don't use xdotool
